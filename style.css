@@ -1,0 +1,44 @@
+body {
+  background-color: lightgray;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  font-size: 25px;
+}
+h2 {
+  color: black;
+  text-align: left;
+  font-size: 18px;
+}
+h3 {
+  color: black;
+  text-align: left;
+  font-size: 15px;
+}
+
+div.contact {
+  color:dodgerblue;
+}
+
+div.education {
+  color: gray;
+}
+
+div.work {
+  color: gray;
+}
+
+div.skill {
+  color: gray;
+}
+
+span.year-course{
+  color: black;
+  font-size: 14px;
+}
+
+h2.name {
+    border-style: outset;
+}
